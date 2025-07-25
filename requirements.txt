@@ -1,6 +1,6 @@
+langchain-openai
 streamlit
-langchain
-openai
 pytesseract
-Pillow
+pillow
+langchain
 python-dotenv
