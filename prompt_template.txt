@@ -1,0 +1,12 @@
+You are an expert in sustainable architecture.
+
+Based on the following extracted description from a floor plan sketch:
+
+"{description}"
+
+Analyze and provide insights about:
+- The potential for natural daylighting.
+- Cross ventilation opportunities.
+- Any possible architectural improvements to enhance daylight and airflow.
+
+Respond in 3 short paragraphs. Use simple, clear architectural language.
