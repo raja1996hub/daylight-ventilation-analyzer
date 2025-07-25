@@ -1,6 +1,6 @@
 streamlit
-pytesseract
-Pillow
 langchain
 openai
-
+pytesseract
+Pillow
+python-dotenv
